@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hola 👋, soy un Desarrollador Frontend apasionado por crear interfaces web modernas, funcionales y accesibles. 🚀<br><br>👨‍💻 Tecnologías que domino:<br>Lenguajes: HTML, CSS, JavaScript .<br>Frameworks: React, Angular .<br><br>🌟 Mi objetivo: Construir experiencias de usuario fluidas, optimizadas y con un diseño atractivo.<br>Siempre estoy aprendiendo nuevas herramientas y frameworks para mejorar mis habilidades.<br><br>💬 ¿Quieres colaborar? ¡Estoy abierto a proyectos interesantes o contribuciones a proyectos open-source!</p>
+<p align="left">Hola 👋, soy un Desarrollador Frontend apasionado por crear interfaces web modernas, funcionales y accesibles. 🚀<br><br>🌟 Mi objetivo: Construir experiencias de usuario fluidas, optimizadas y con un diseño atractivo.<br>Siempre estoy aprendiendo nuevas herramientas y frameworks para mejorar mis habilidades.<br><br>💬 ¿Quieres colaborar? ¡Estoy abierto a proyectos interesantes o contribuciones a proyectos open-source!</p>
 
 ###
 

@@ -7,8 +7,6 @@ Siempre estoy aprendiendo nuevas herramientas y frameworks para mejorar mis habi
 
 💬 **¿Quieres colaborar?** ¡Estoy abierto a proyectos interesantes o contribuciones a proyectos open-source!  
 
----
-
 ## 🚀 Tecnologías:
 
 <div align="left">
